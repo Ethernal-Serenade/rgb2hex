@@ -1,0 +1,397 @@
+[
+	{
+		"name": "Đất nông nghiệp",
+		"ma": "NNP",
+		"color_hex": "#ffff64"
+	},
+	{
+		"name": "Đất sản xuất nông nghiệp",
+		"ma": "SXN",
+		"color_hex": "#fffc6e"
+	},
+	{
+		"name": "Đất trồng cây hàng năm",
+		"ma": "CHN",
+		"color_hex": "#fffc78"
+	},
+	{
+		"name": "Đất trồng lúa",
+		"ma": "LUA",
+		"color_hex": "#fffc82"
+	},
+	{
+		"name": "Đất chuyên trồng lúa nước",
+		"ma": "LUC",
+		"color_hex": "#fffc8c"
+	},
+	{
+		"name": "Đất trồng lúa nước còn lại",
+		"ma": "LUK",
+		"color_hex": "#fffc96"
+	},
+	{
+		"name": "Đất trồng lúa nương",
+		"ma": "LUN",
+		"color_hex": "#fffcb4"
+	},
+	{
+		"name": "Đất trồng cây hàng năm khác",
+		"ma": "HNK",
+		"color_hex": "#fff0b4"
+	},
+	{
+		"name": "Đất bằng trồng cây hàng năm khác",
+		"ma": "BHK",
+		"color_hex": "#fff0b4"
+	},
+	{
+		"name": "Đất nương rẫy trồng cây hàng năm khác",
+		"ma": "NHK",
+		"color_hex": "#fff0b4"
+	},
+	{
+		"name": "Đất trồng cây lâu năm",
+		"ma": "CLN",
+		"color_hex": "#ffd2a0"
+	},
+	{
+		"name": "Đất lâm nghiệp",
+		"ma": "LNP",
+		"color_hex": "#aaff32"
+	},
+	{
+		"name": "Đất rừng sản xuất",
+		"ma": "RSX",
+		"color_hex": "#b4ffb4"
+	},
+	{
+		"name": "Đất có rừng sản xuất là rừng tự nhiên",
+		"ma": "RSN",
+		"color_hex": "#b4ffb4"
+	},
+	{
+		"name": "Đất có rừng sản xuất là rừng trồng",
+		"ma": "RST",
+		"color_hex": "#b4ffb4"
+	},
+	{
+		"name": "Đất đang được sử dụng để phát triển rừng sản xuất",
+		"ma": "RSM",
+		"color_hex": "#b4ffb4"
+	},
+	{
+		"name": "Đất rừng phòng hộ",
+		"ma": "RPH",
+		"color_hex": "#beff1e"
+	},
+	{
+		"name": "Đất có rừng phòng hộ là rừng tự nhiên",
+		"ma": "RPN",
+		"color_hex": "#beff1e"
+	},
+	{
+		"name": "Đất có rừng phòng hộ là rừng trồng",
+		"ma": "RPT",
+		"color_hex": "#beff1e"
+	},
+	{
+		"name": "Đất đang được sử dụng để phát triển rừng phòng hộ",
+		"ma": "RPM",
+		"color_hex": "#beff1e"
+	},
+	{
+		"name": "Đất rừng đặc dụng",
+		"ma": "RDD",
+		"color_hex": "#6eff64"
+	},
+	{
+		"name": "Đất có rừng đặc dụng là rừng tự nhiên",
+		"ma": "RDN",
+		"color_hex": "#6eff64"
+	},
+	{
+		"name": "Đất có rừng đặc dụng là rừng trồng",
+		"ma": "RDT",
+		"color_hex": "#6eff64"
+	},
+	{
+		"name": "Đất đang được sử dụng để phát triển rừng đặc dụng",
+		"ma": "RDM",
+		"color_hex": "#6eff64"
+	},
+	{
+		"name": "Đất nuôi trồng thủy sản",
+		"ma": "NTS",
+		"color_hex": "#aaffff"
+	},
+	{
+		"name": "Đất làm muối",
+		"ma": "LMU",
+		"color_hex": "#000000"
+	},
+	{
+		"name": "Đất nông nghiệp khác",
+		"ma": "NKH",
+		"color_hex": "#f5ffb4"
+	},
+	{
+		"name": "Đất phi nông nghiệp",
+		"ma": "NNP",
+		"color_hex": "#ffff64"
+	},
+	{
+		"name": "Đất ở",
+		"ma": "OTC",
+		"color_hex": "#ffb4ff"
+	},
+	{
+		"name": "Đất ở tại nông thôn",
+		"ma": "ONT",
+		"color_hex": "#ffd0ff"
+	},
+	{
+		"name": "Đất ở tại đô thị",
+		"ma": "ODT",
+		"color_hex": "#ffa0ff"
+	},
+	{
+		"name": "Đất chuyên dùng",
+		"ma": "CDG",
+		"color_hex": "#ffa0aa"
+	},
+	{
+		"name": "Đất xây dựng trụ sở cơ quan",
+		"ma": "TSC",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất quốc phòng",
+		"ma": "CQP",
+		"color_hex": "#ff6450"
+	},
+	{
+		"name": "Đất an ninh",
+		"ma": "CAN",
+		"color_hex": "#ff5046"
+	},
+	{
+		"name": "Đất xây dựng công trình sự nghiệp",
+		"ma": "DSN",
+		"color_hex": "#ffa0aa"
+	},
+	{
+		"name": "Đất xây dựng trụ sở của tổ chức sự nghiệp",
+		"ma": "DTS",
+		"color_hex": "#faaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở văn hóa",
+		"ma": "DVH",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở dịch vụ xã hội",
+		"ma": "DXH",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở y tế",
+		"ma": "DYT",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở giáo dục và đào tạo",
+		"ma": "DGD",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở thể dục thể thao",
+		"ma": "DTT",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở khoa học và công nghệ",
+		"ma": "DKH",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng cơ sở ngoại giao",
+		"ma": "DNG",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất xây dựng công trình sự nghiệp khác",
+		"ma": "DSK",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất sản xuất, kinh doanh phi nông nghiệp",
+		"ma": "CSK",
+		"color_hex": "#ffa0aa"
+	},
+	{
+		"name": "Đất khu công nghiệp",
+		"ma": "SKK",
+		"color_hex": "#faaaa0"
+	},
+	{
+		"name": "Đất cụm công nghiệp",
+		"ma": "SKN",
+		"color_hex": "#faaaa0"
+	},
+	{
+		"name": "Đất khu chế xuất",
+		"ma": "SKT",
+		"color_hex": "#faaaa0"
+	},
+	{
+		"name": "Đất thương mại, dịch vụ",
+		"ma": "TMD",
+		"color_hex": "#faaaa0"
+	},
+	{
+		"name": "Đất cơ sở sản xuất phi nông nghiệp",
+		"ma": "SKC",
+		"color_hex": "#faaaa0"
+	},
+	{
+		"name": "Đất sử dụng cho hoạt động khoáng sản",
+		"ma": "SKS",
+		"color_hex": "#cdaacd"
+	},
+	{
+		"name": "Đất sản xuất vật liệu xây dựng, làm đồ gốm",
+		"ma": "SKX",
+		"color_hex": "#cdaacd"
+	},
+	{
+		"name": "Đất có mục đích công cộng",
+		"ma": "CCC",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất giao thông",
+		"ma": "DGT",
+		"color_hex": "#ffaa32"
+	},
+	{
+		"name": "Đất thủy lợi",
+		"ma": "DTL",
+		"color_hex": "#aaffff"
+	},
+	{
+		"name": "Đất có di tích lịch sử - văn hóa",
+		"ma": "DDT",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất danh lam thắng cảnh",
+		"ma": "DDL",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất sinh hoạt cộng đồng",
+		"ma": "DSH",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất khu vui chơi, giải trí công cộng",
+		"ma": "DKV",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất công trình năng lượng",
+		"ma": "DNL",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất công trình bưu chính viễn thông",
+		"ma": "DBV",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất chợ",
+		"ma": "DCH",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất bãi thải, xử lý chất thải",
+		"ma": "DRA",
+		"color_hex": "#cdaacd"
+	},
+	{
+		"name": "Đất công trình công cộng khác",
+		"ma": "DCK",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất cơ sở tôn giáo",
+		"ma": "TON",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất cơ sở tín ngưỡng",
+		"ma": "TIN",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất nghĩa trang, nghĩa địa, nhà tang lễ, nhà hỏa táng",
+		"ma": "NTD",
+		"color_hex": "#d2d2d2"
+	},
+	{
+		"name": "Đất sông, ngòi, kênh, rạch, suối",
+		"ma": "SON",
+		"color_hex": "#a0ffff"
+	},
+	{
+		"name": "Đất có mặt nước chuyên dùng",
+		"ma": "MNC",
+		"color_hex": "#b4ffff"
+	},
+	{
+		"name": "Đất phi nông nghiệp khác",
+		"ma": "PNK",
+		"color_hex": "#ffaaa0"
+	},
+	{
+		"name": "Đất chưa sử dụng",
+		"ma": "CSD",
+		"color_hex": "#fffffe"
+	},
+	{
+		"name": "Đất bằng chưa sử dụng",
+		"ma": "BCS",
+		"color_hex": "#fffffe"
+	},
+	{
+		"name": "Đất đồi núi chưa sử dụng",
+		"ma": "DCS",
+		"color_hex": "#fffffe"
+	},
+	{
+		"name": "Núi đá không có rừng cây",
+		"ma": "NCS",
+		"color_hex": "#e6e6c8"
+	},
+	{
+		"name": "Đất có mặt nước ven biển (chỉ tiêu quan sát)",
+		"ma": "MVB",
+		"color_hex": "#b4ffff"
+	},
+	{
+		"name": "Đất mặt nước ven biển nuôi trồng thủy sản",
+		"ma": "MVT",
+		"color_hex": "#b4ffff"
+	},
+	{
+		"name": "Đất mặt nước ven biển có rừng",
+		"ma": "MVR",
+		"color_hex": "#b4ffff"
+	},
+	{
+		"name": "Đất mặt nước ven biển có mục đích khác",
+		"ma": "MVK",
+		"color_hex": "#b4ffff"
+	}
+]
